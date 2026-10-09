@@ -1,6 +1,6 @@
 # @arki/theme
 
-Published version: **0.0.0-stage**
+Published version: **0.2.1**
 
 This repository is a **read-only mirror** of the [@arki/theme](https://www.npmjs.com/package/@arki/theme) npm package.
 
